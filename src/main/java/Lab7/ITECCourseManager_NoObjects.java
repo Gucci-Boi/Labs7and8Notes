@@ -8,7 +8,6 @@ public class ITECCourseManager_NoObjects {
         maintenanceCourse.addStudent("Anna");
         maintenanceCourse.addStudent("Bill");
         maintenanceCourse.addStudent("Carl");
-
         maintenanceCourse.removeStudent("Carl");
         maintenanceCourse.removeStudent("Martha");
 
