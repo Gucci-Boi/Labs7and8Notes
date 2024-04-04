@@ -4,26 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ca99be-5b57-44b2-af95-c6ff933b8d21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/Dates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/DiceCup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/ITECCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/ITECCourseManager_NoObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/Pool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/RegistrationDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/SwimmingPoolProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab7/TireComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="44ca99be-5b57-44b2-af95-c6ff933b8d21" name="Changes" comment="Lab7 commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/currencyConverter/CurrencyConverter.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/currencyConverter/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/currencyConverter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/guiApp/HelloGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/guiApp/HelloGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/guiApp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/movieGui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/movieGui/MovieGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab8/movieGui/MovieGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2e0NjS5XuGICsGU8CZzVXeYnU65" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,11 +45,14 @@
   "keyToString": {
     "Application.Dates.executor": "Run",
     "Application.Game.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.RegistrationDate.executor": "Run",
     "Application.TireComparison.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "125",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "282",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Access Point/IdeaProjects/input/src/main/java",
@@ -74,21 +69,6 @@
       <recent name="C:\Users\Access Point\IdeaProjects\input\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Labs7and8Notes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Labs7and8Notes" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,11 +84,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711037679396</updated>
-      <workItem from="1711037680491" duration="5303000" />
+      <workItem from="1711037680491" duration="6214000" />
+      <workItem from="1712072226369" duration="8037000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab7 commit">
+      <option name="closed" value="true" />
+      <created>1711988690833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711988690833</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lab7 commit">
+      <option name="closed" value="true" />
+      <created>1711988984198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711988984198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab7 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab7 commit" />
   </component>
 </project>
